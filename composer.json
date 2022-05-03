@@ -1,0 +1,13 @@
+{
+  "name": "k3ny-dg/328/week5",
+  "authors": [
+    {
+      "name": "Keny Dutton",
+      "email": "dutton-gillespie.keny@student.greenriver.edu"
+    }
+  ],
+  "require":
+  {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
